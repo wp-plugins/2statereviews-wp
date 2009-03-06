@@ -1,5 +1,6 @@
 === Plugin Name ===
 Contributors: darrenwatt
+Donate link: www.darrenwatt.com
 Tags: widget, plugin, sidebar
 Requires at least: 2.0.2
 Tested up to: 2.7
@@ -21,8 +22,11 @@ Installation is straight forward.
 
 == Frequently Asked Questions ==
 
-
 = What is 2StateReviews =
 
 A movie review site where the only options are "See" or "Don't See".
-[2StateReviews] (http://2statereviews.com/ "2StateReviews")
+http://2statereviews.com/
+
+== Screenshots ==
+
+None yet.
