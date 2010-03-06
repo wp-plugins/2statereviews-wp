@@ -8,7 +8,7 @@ Stable tag: 1.0
 
 == Description ==
 
-This is the 2StateReviews.com Wordpress Widget, which links the latest vote you cast to your blog.
+This is the 2StateReviews.com Wordpress Widget, which links the latest vote you cast to your blog. 2StateReviews is a review systems where things are either good or bad, no middle ground.
 
 
 == Installation ==
@@ -29,4 +29,4 @@ http://2statereviews.com/
 
 == Screenshots ==
 
-None yet.
+/trunk/screenshot-1.png
